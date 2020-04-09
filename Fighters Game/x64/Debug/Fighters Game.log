@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  BlackWizard.cpp
+  Computer_Won.cpp
+  Fighters Game.cpp
+  Fighters GameDlg.cpp
+  Horseman.cpp
+  Knight.cpp
+  Player.cpp
+  Player_Won.cpp
+  Store.cpp
+  Warrior.cpp
+  Weapon.cpp
+  WhiteWizard.cpp
+  Wizard.cpp
+  Generating Code...
+  Fighters Game.vcxproj -> C:\Users\shirl\Desktop\Original fighters\Fighters Game\x64\Debug\Fighters Game.exe
