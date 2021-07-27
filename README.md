@@ -1,2 +1,2 @@
 # Fighters-Game
-During our studies in computer science, we made a game as a final project. We got a perfect grade, but we choose to continue to work on it and improve it.
+C++ MFC Programming of a Fighters game, using a common interface built OOP methods, as part of the course "Object-Oriented Programming”.
